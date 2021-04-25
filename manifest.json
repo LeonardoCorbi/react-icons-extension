@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "React-icons extension",
+  "description": "An ease way to find icons.",
+  "version": "0.1",
+  "browser_action": {
+    "default_popup": "index.html"
+  }
+}
